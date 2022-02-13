@@ -3,7 +3,7 @@ This is the question I asked myself at the start of project week.
 
 In the 'Uncleaned dataset' folder, you will find the data I worked with this week to analyze the local market. You will find that it is mostly data on age and income of surrounding city's around Noordwijk.
 
-In the 'Datasets used' folder, you will find my exported files after I cleaned them and make them universal. This was important because I needed to analyze this data using Tableau later on.
+In the 'Datasets used' folder, you will find my exported files after I cleaned them and made them universal. This was important because I needed to analyze this data using Tableau later on.
 
 The notebook I used to clean the data is in the main folder of this repo and will show you the steps I took to get my clean datasets.
 
