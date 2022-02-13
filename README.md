@@ -18,4 +18,4 @@ Some of these points of interest are:
 
 To answer one or more of the above-mentioned questions, I need a lot more data than what I have found to this point.
 
-That you for showing interest in my project. Feel free to take a look and propose any improvements.
+Thank you for showing interest in my project. Feel free to take a look and propose any improvements.
