@@ -1,5 +1,5 @@
 # Is Noordwijk a good place to start a new business?
-This is the question I asked myself at the start of project week.
+This was the question I asked myself at the start of project week.
 
 In the 'Uncleaned dataset' folder, you will find the data I worked with this week to analyze the local market. You will find that it is mostly data on age and income of surrounding city's around Noordwijk.
 
